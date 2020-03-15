@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our GitHubteacher's slide!"
 ---
-The rain in Spain falls mainly on the plains
+This is my awesome slide
 Use the left arrow to go back!
